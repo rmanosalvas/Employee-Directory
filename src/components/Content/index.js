@@ -65,7 +65,6 @@ export default class Content extends Component {
     render () {
         return(
             <div>
-                <p>Input search bar here</p>
                 <div>
                     <label>Sort by position:</label>
                     <select onChange={this.sortPosition} id='position'>
