@@ -73,7 +73,7 @@ export default class Content extends Component {
                         <option value='Front End'>Front End</option>
                         <option value='Back End'>Back End</option>
                         <option value='Full Stack'>Full Stack</option>
-                        <option value='Junior'>Junior Dev</option>
+                        <option value='Junior Dev'>Junior Dev</option>
                     </select>
                 </div>
                 <div>
